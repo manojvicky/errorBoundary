@@ -1,0 +1,2 @@
+# errorBoundary
+Created with CodeSandbox
